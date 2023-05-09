@@ -1,0 +1,12 @@
+.navbar {
+  background-color: royalblue;
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  padding: 1em;
+}
+
+.navbar a {
+  color: whitesmoke;
+  text-decoration: none;
+}
